@@ -1,0 +1,7 @@
+sentiment,risk_level,count
+Positive,Moderate Concern,667
+Negative,Moderate Concern,593
+Negative,Low Concern,241
+Positive,Low Concern,237
+Neutral,Low Concern,33
+Neutral,Moderate Concern,10
