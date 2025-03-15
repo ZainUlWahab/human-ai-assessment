@@ -17,7 +17,6 @@ Before running any scripts, create a virtual environment:
 - Run `pip install -r requirements.txt`  
 
 **Important:** Make sure to use python version <3.13. Spacy does not work on python version 3.13
----
 
 ## Folder Structure & Task Descriptions  
 
@@ -48,7 +47,6 @@ This script fetches and processes Reddit posts, resulting in two JSON files:
 Run the script with:  
 `python Task-1/script.py`  
 
----
 
 ### Task 2: Sentiment Analysis & Risk Classification  
 **Location:** `Task-2/script.py`  
@@ -62,7 +60,6 @@ Run the script with:
 Run the script with:  
 `python Task-2/script.py`  
 
----
 
 ### Task 3: Geolocation Extraction & Crisis Mapping  
 **Location:** `Task-3/script.py`  
@@ -79,7 +76,5 @@ This script:
 **Important:** Do not worry if the script is taking long. It tends to take time due to the use of sleep statements so that we do not get timeout by the API. 
 Run the script with:  
 `python Task-3/script.py "your_user_agent"`  
-
----
 
 Thank you!
